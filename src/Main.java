@@ -10,7 +10,7 @@ public class Main
         String trash = "";
 
 
-        System.out.println("Enter your birth month: ");
+        System.out.print("Enter your birth month: ");
 
         if (in.hasNextInt())
         {
